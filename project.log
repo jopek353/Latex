@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2019.12.23)  23 DEC 2019 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2019.12.23)  23 DEC 2019 18:46
 entering extended mode
 **./project.tex
 (project.tex
@@ -96,108 +96,118 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/home/piotr/.miktex/texmfs/install/tex/latex/caption/caption.sty
-Package: caption 2019/10/18 v3.4a Customizing captions (AR)
-
-(/home/piotr/.miktex/texmfs/install/tex/latex/caption/caption3.sty
-Package: caption3 2019/09/09 v1.8e caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
+(/home/piotr/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/home/piotr/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-\captionmargin=\dimen112
-\captionmargin@=\dimen113
-\captionwidth=\dimen114
-\caption@tempdima=\dimen115
-\caption@indent=\dimen116
-\caption@parindent=\dimen117
-\caption@hangindent=\dimen118
-Package caption Info: Standard document class detected.
+(/home/piotr/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/piotr/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-\c@caption@flags=\count100
-\c@continuedfloat=\count101
+(/home/piotr/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 105.
+
+(/home/piotr/.miktex/texmfs/install/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
 )
 (project.aux)
 \openout1 = `project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
 
  (/home/piotr/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
 
 
 (/home/piotr/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (11.9677pt too wide) in paragraph at lines 13--14
+Overfull \hbox (11.9677pt too wide) in paragraph at lines 14--15
 \T1/cmr/bx/n/12 Czarna dziura \T1/cmr/m/n/12  obszar czasoprzestrzeni, którego
  z uwagi na wpªyw grawitacji,
  []
 
 
-Overfull \hbox (10.20723pt too wide) in paragraph at lines 13--14
+Overfull \hbox (10.20723pt too wide) in paragraph at lines 14--15
 \T1/cmr/m/n/12 nic (ª¡cznie ze ±wiatªem) nie mo»e opu±ci¢. Zgodnie z ogóln¡ teo
 ri¡ wzgl¦dno±ci,
  []
 
 
-Overfull \hbox (14.61244pt too wide) in paragraph at lines 13--14
+Overfull \hbox (14.61244pt too wide) in paragraph at lines 14--15
 \T1/cmr/m/n/12 odpowiednio maªej obj¦to±ci. Czarn¡ dziur¦ otacza matematycznie 
 zdefiniowana
  []
 
 
-Overfull \hbox (1.34267pt too wide) in paragraph at lines 13--14
+Overfull \hbox (1.34267pt too wide) in paragraph at lines 14--15
 \T1/cmr/m/n/12 emituj¡ promieniowanie jak ciaªo doskonale czarne o niezerowej t
 emperaturze.
  []
 
-[1
+File: ./images/bh2.eps Graphic file (type eps)
+<./images/bh2.eps>
+Overfull \hbox (14.71353pt too wide) in paragraph at lines 18--19
+ [] 
+ []
 
-{/home/piotr/.miktex/texmfs/data/pdftex/config/pdftex.map}]
-Overfull \hbox (4.53415pt too wide) in paragraph at lines 18--19
+[1
+Non-PDF special ignored!
+<special> papersize=614.295pt,794.96999pt
+
+{/home/piotr/.miktex/texmfs/data/pdftex/config/pdftex.map}] [2
+Non-PDF special ignored!
+<special> PSfile="./images/bh2.eps" llx=-0 lly=-0 urx=504 ury=403 rwi=4032 
+]
+Overfull \hbox (4.53415pt too wide) in paragraph at lines 27--28
 \T1/cmr/m/n/12 uciec, postulowaª angielski geolog John Michell w roku 1783 w pr
 acy przesªanej
  []
 
 
-Overfull \hbox (5.89445pt too wide) in paragraph at lines 24--25
+Overfull \hbox (5.89445pt too wide) in paragraph at lines 33--34
 \T1/cmr/m/n/12 niefizyczny. W roku 1931 Chandrasekhar na przykªadzie biaªego ka
 rªa pokazaª,
  []
 
 
-Overfull \hbox (11.31667pt too wide) in paragraph at lines 26--27
+Overfull \hbox (11.31667pt too wide) in paragraph at lines 35--36
 \T1/cmr/m/n/12 gwiazda mo»e ulec kolapsowi grawitacyjnemu. Taki obiekt nazwano 
 ,,zamro»on¡
  []
 
-[2]
-Overfull \hbox (12.4697pt too wide) in paragraph at lines 29--30
+[3]
+Overfull \hbox (12.4697pt too wide) in paragraph at lines 38--39
 \T1/cmr/m/n/12 siªa grawitacji, z jak¡ oddziaªuje ona na sam¡ siebie, nie mo»e 
 by¢ zrównowa»ona
  []
 
 
-Overfull \hbox (2.6206pt too wide) in paragraph at lines 31--32
+Overfull \hbox (2.6206pt too wide) in paragraph at lines 40--41
  \T1/cmr/bx/n/12 Równanie Einsteina[] \T1/cmr/m/n/12 Istnienie czarnych dziur w
 ynika z równania Einsteina
  []
@@ -205,58 +215,70 @@ ynika z równania Einsteina
 
 Package amsmath Warning: Foreign command \over;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 34.
+(amsmath)                 on input line 43.
 
 
-Overfull \hbox (11.34006pt too wide) in paragraph at lines 47--48
+Overfull \hbox (11.34006pt too wide) in paragraph at lines 56--57
  \T1/cmr/bx/n/12 Rozwi¡zanie Schwarzschilda[] \T1/cmr/m/n/12 Jednym z dosªownie
  kilku znanych rozwi¡za«
  []
 
-[3]
-Overfull \hbox (17.00125pt too wide) in paragraph at lines 55--56
+[4]
+Overfull \hbox (17.00125pt too wide) in paragraph at lines 64--65
 \T1/cmr/m/n/12 Istniej¡ teorie, wedªug których przej±cie obiektu przez horyzont
  zdarze« zwi¡zane
  []
 
 
-Overfull \hbox (6.33795pt too wide) in paragraph at lines 57--58
+Overfull \hbox (6.33795pt too wide) in paragraph at lines 66--67
 []\T1/cmr/m/n/12 Z matematycznego punktu widzenia fakt ten sprowadza si¦ do stw
 ierdzenia,
  []
 
 
-Overfull \hbox (0.26643pt too wide) in paragraph at lines 61--62
+Overfull \hbox (0.26643pt too wide) in paragraph at lines 70--71
 []\T1/cmr/m/n/12 Reissnera-Nordströma  ªadunek, masa niezerowa, brak momentu p
 ¦du, 
  []
 
-[4] (project.aux) ) 
+[5] (project.toc)
+\tf@toc=\write3
+\openout3 = `project.toc'.
+
+ (project.lot)
+\tf@lot=\write4
+\openout4 = `project.lot'.
+
+ (project.lof)
+\tf@lof=\write5
+\openout5 = `project.lof'.
+
+ [6] (project.aux) ) 
 Here is how much of TeX's memory you used:
- 2725 strings out of 494411
- 37278 string characters out of 3174489
- 99777 words of memory out of 3000000
- 6850 multiletter control sequences out of 15000+200000
+ 1986 strings out of 494411
+ 22214 string characters out of 3174489
+ 76906 words of memory out of 3000000
+ 6089 multiletter control sequences out of 15000+200000
  16284 words of font info for 50 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 38i,9n,42p,1083b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/e
-c/dpi600/ecbx1440.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jknappen
-/ec/dpi600/ecrm1200.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jknapp
-en/ec/dpi600/ecbx1200.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jkna
-ppen/ec/dpi600/ecbx1728.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jk
-nappen/ec/dpi600/ecrm1440.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/
-jknappen/ec/dpi600/ecrm2074.pk></home/piotr/.miktex/texmfs/install/fonts/type1/
-public/amsfonts/cm/cmex10.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/p
-ublic/amsfonts/cm/cmmi12.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/pu
-blic/amsfonts/cm/cmmi8.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/public
-/amsfonts/cm/cmr8.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/public/ams
-fonts/cm/cmsy8.pfb>
-Output written on project.pdf (4 pages, 144854 bytes).
+ 30i,9n,31p,1083b,307s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/
+ec/dpi600/ecbx1440.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jknappe
+n/ec/dpi600/ecrm1200.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jknap
+pen/ec/dpi600/ecbx1200.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jkn
+appen/ec/dpi600/ecbx1728.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/j
+knappen/ec/dpi600/ecrm1440.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour
+/jknappen/ec/dpi600/ecrm2074.pk></home/piotr/.miktex/texmfs/install/fonts/type1
+/public/amsfonts/cm/cmex10.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/pub
+lic/amsfonts/cm/cmr12.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/public/am
+sfonts/cm/cmsy8.pfb>
+Output written on project.pdf (6 pages, 156336 bytes).
 PDF statistics:
- 259 PDF objects out of 1000 (max. 8388607)
+ 293 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Opis}{1}%
+\contentsline {section}{\numberline {2}Historia}{3}%
+\contentsline {subsection}{\numberline {2.1}Pocz\k {a}tek}{3}%
+\contentsline {subsection}{\numberline {2.2}Wiek XX}{3}%
+\contentsline {subsection}{\numberline {2.3}Wsp\'{o}\l {}czesno\'{s}\'{c}}{3}%
+\contentsline {section}{\numberline {3}Opis matematyczny}{4}%
+\contentsline {paragraph}{R\'{o}wnanie Einsteina}{4}%
+\contentsline {paragraph}{Rozwi\k {a}zanie Schwarzschilda}{4}%
+\contentsline {section}{\numberline {4}W\l {}a\'{s}ciwo\'{s}ci czarnej dziury}{5}%
+\contentsline {subsection}{\numberline {4.1}Klasyfikacja czarnych dziur}{5}%
+\contentsline {section}{\numberline {5}Spis tre\'{s}ci}{6}%

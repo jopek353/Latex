@@ -1,16 +1,25 @@
 \documentclass[12pt]{article}
-\title{Czarna dziura}
-\author{Piotr Jadczak}
 \usepackage[T1]{fontenc}
 \usepackage{amsmath}
 \usepackage{amssymb}
-\usepackage{caption}
+\usepackage[dvips]{graphicx}
+\graphicspath{ {./images/} }
+\title{Czarna dziura}
+\author{Piotr Jadczak}
 
 \begin{document}
 \maketitle
 \section{Opis}
 
 \textbf{Czarna dziura} \textendash{} obszar czasoprzestrzeni, kt\'{o}rego z uwagi na wp\l{}yw grawitacji, nic (\l{}\k{a}cznie ze \'{s}wiat\l{}em) nie mo\.{z}e opu\'{s}ci\'{c}. Zgodnie z og\'{o}ln\k{a} teori\k{a} wzgl\k{e}dno\'{s}ci, do jej powstania niezb\k{e}dne jest nagromadzenie dostatecznie du\.{z}ej masy w odpowiednio ma\l{}ej obj\k{e}to\'{s}ci. Czarn\k{a} dziur\k{e} otacza matematycznie zdefiniowana powierzchnia nazywana horyzontem zdarze\'{n}, kt\'{o}ra wyznacza granic\k{e} bez powrotu. Nazywa si\k{e} j\k{a} ,,czarn\k{a}\textquotedblright{}, poniewa\.{z} poch\l{}ania ca\l{}kowicie \'{s}wiat\l{}o trafiaj\k{a}ce w horyzont, nie odbijaj\k{a}c niczego, zupe\l{}nie jak cia\l{}o doskonale czarne w termodynamice. Mechanika kwantowa przewiduje, \.{z}e czarne dziury emituj\k{a} promieniowanie jak cia\l{}o doskonale czarne o niezerowej temperaturze. Temperatura ta jest odwrotnie proporcjonalna do masy czarnej dziury, co sprawia, \.{z}e bardzo trudno je zaobserwowa\'{c} w wypadku czarnych dziur o masie gwiazdowej b\k{a}d\'{z} wi\k{e}kszych.
+
+\begin{figure}
+\begin{center}
+\includegraphics[scale=0.8]{bh2.eps}
+\caption{Obraz obiektu M87}
+\end{center}
+\end{figure}
+
 
 \newpage
 \section{Historia}
@@ -66,7 +75,8 @@ Z matematycznego punktu widzenia fakt ten sprowadza si\k{e} do stwierdzenia, \.{
 \subsection{Klasyfikacja czarnych dziur}
 
 \begin{table}[h]
-\caption{\textbf{Black hole classifications}}
+\textbf{\caption{Black hole classifications}}
+\label{tab:blackholeclass}
 \begin{center}
 \renewcommand{\arraystretch}{2}
 \begin{tabular}{|l|c|c|}
@@ -85,6 +95,11 @@ Micro black hole & up to $M_{moon}$ & up to $0.1$ mm \\
 \end{center}
 \end{table}
 \newpage
- 
+\begin{center}
+\section{Spis tre\'{s}ci}
+\end{center}
+\tableofcontents
+\listoftables
+\listoffigures
 
 \end{document}
