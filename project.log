@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2019.12.23)  23 DEC 2019 18:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.23)  25 DEC 2019 17:53
 entering extended mode
 **./project.tex
 (project.tex
 LaTeX2e <2019-10-01> patch level 3
-(/home/piotr/.miktex/texmfs/install/tex/latex/base/article.cls
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
-(/home/piotr/.miktex/texmfs/install/tex/latex/base/size12.clo
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -19,32 +19,37 @@ File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-(/home/piotr/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+) ("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
+"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-
-(/home/piotr/.miktex/texmfs/install/tex/latex/base/t1enc.def
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(/home/piotr/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
 Package: amsmath 2019/11/16 v2.17d AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/home/piotr/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/home/piotr/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-(/home/piotr/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
 )
-(/home/piotr/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count88
@@ -85,10 +90,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 LaTeX Info: Redefining \[ on input line 2858.
 LaTeX Info: Redefining \] on input line 2859.
 )
-(/home/piotr/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/home/piotr/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -96,152 +103,210 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/home/piotr/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/home/piotr/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(/home/piotr/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
 Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
 
-(/home/piotr/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/home/piotr/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(/home/piotr/.miktex/texmfs/install/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
-)
-(project.aux)
+) (project.aux)
 \openout1 = `project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
- (/home/piotr/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box29
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+)
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
+Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
+
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.s
+ty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)))))
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+42.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 460.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+
+
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
 
-
-(/home/piotr/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+("C:\Users\jadcz\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (11.9677pt too wide) in paragraph at lines 14--15
-\T1/cmr/bx/n/12 Czarna dziura \T1/cmr/m/n/12  obszar czasoprzestrzeni, którego
- z uwagi na wpªyw grawitacji,
- []
+) [1
+
+{C:/Users/jadcz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Package epstopdf Info: Source file: <./images/bh2.eps>
+(epstopdf)                    date: 2019-12-24 10:27:05
+(epstopdf)                    size: 8072120 bytes
+(epstopdf)             Output file: <./images/bh2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-24 10:56:20
+(epstopdf)                    size: 965953 bytes
+(epstopdf)             Command: <epstopdf --outfile=./images/bh2-eps-converted-
+to.pdf ./images/bh2.eps>
+(epstopdf)             \includegraphics on input line 20.
+Package epstopdf Info: Output file is already uptodate.
 
 
-Overfull \hbox (10.20723pt too wide) in paragraph at lines 14--15
-\T1/cmr/m/n/12 nic (ª¡cznie ze ±wiatªem) nie mo»e opu±ci¢. Zgodnie z ogóln¡ teo
-ri¡ wzgl¦dno±ci,
- []
-
-
-Overfull \hbox (14.61244pt too wide) in paragraph at lines 14--15
-\T1/cmr/m/n/12 odpowiednio maªej obj¦to±ci. Czarn¡ dziur¦ otacza matematycznie 
-zdefiniowana
- []
-
-
-Overfull \hbox (1.34267pt too wide) in paragraph at lines 14--15
-\T1/cmr/m/n/12 emituj¡ promieniowanie jak ciaªo doskonale czarne o niezerowej t
-emperaturze.
- []
-
-File: ./images/bh2.eps Graphic file (type eps)
-<./images/bh2.eps>
-Overfull \hbox (14.71353pt too wide) in paragraph at lines 18--19
- [] 
- []
-
-[1
-Non-PDF special ignored!
-<special> papersize=614.295pt,794.96999pt
-
-{/home/piotr/.miktex/texmfs/data/pdftex/config/pdftex.map}] [2
-Non-PDF special ignored!
-<special> PSfile="./images/bh2.eps" llx=-0 lly=-0 urx=504 ury=403 rwi=4032 
-]
-Overfull \hbox (4.53415pt too wide) in paragraph at lines 27--28
-\T1/cmr/m/n/12 uciec, postulowaª angielski geolog John Michell w roku 1783 w pr
-acy przesªanej
- []
-
-
-Overfull \hbox (5.89445pt too wide) in paragraph at lines 33--34
-\T1/cmr/m/n/12 niefizyczny. W roku 1931 Chandrasekhar na przykªadzie biaªego ka
-rªa pokazaª,
- []
-
-
-Overfull \hbox (11.31667pt too wide) in paragraph at lines 35--36
-\T1/cmr/m/n/12 gwiazda mo»e ulec kolapsowi grawitacyjnemu. Taki obiekt nazwano 
-,,zamro»on¡
+pdfTeX warning: pdflatex (file ./images/bh2-eps-converted-to.pdf): PDF inclusio
+n: found PDF version <1.7>, but at most version <1.5> allowed
+<./images/bh2-eps-converted-to.pdf, id=8, 505.89pt x 404.51125pt>
+File: ./images/bh2-eps-converted-to.pdf Graphic file (type pdf)
+<use ./images/bh2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/bh2-eps-converted-to.pdf  used on input line 
+20.
+(pdftex.def)             Requested size: 252.94437pt x 202.25513pt.
+[2 <./images/bh2-eps-converted-to.pdf>]
+Overfull \hbox (4.53415pt too wide) in paragraph at lines 30--31
+\T1/cmr/m/n/12 uciec, pos-tu-lowaª ang-iel-ski ge-olog John Michell w roku 1783
+ w pracy przesªanej
  []
 
 [3]
-Overfull \hbox (12.4697pt too wide) in paragraph at lines 38--39
-\T1/cmr/m/n/12 siªa grawitacji, z jak¡ oddziaªuje ona na sam¡ siebie, nie mo»e 
-by¢ zrównowa»ona
+Overfull \hbox (12.4697pt too wide) in paragraph at lines 43--44
+\T1/cmr/m/n/12 siªa graw-itacji, z jak¡ odd-zi-aªuje ona na sam¡ siebie, nie mo
+»e by¢ zrównowa»ona
  []
 
 
-Overfull \hbox (2.6206pt too wide) in paragraph at lines 40--41
- \T1/cmr/bx/n/12 Równanie Einsteina[] \T1/cmr/m/n/12 Istnienie czarnych dziur w
-ynika z równania Einsteina
- []
-
-
-Package amsmath Warning: Foreign command \over;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 43.
-
-
-Overfull \hbox (11.34006pt too wide) in paragraph at lines 56--57
- \T1/cmr/bx/n/12 Rozwi¡zanie Schwarzschilda[] \T1/cmr/m/n/12 Jednym z dosªownie
- kilku znanych rozwi¡za«
+Overfull \hbox (11.34006pt too wide) in paragraph at lines 61--62
+ \T1/cmr/bx/n/12 Rozwi¡zanie Schwarzschilda[] \T1/cmr/m/n/12 Jed-nym z dosªowni
+e kilku znanych rozwi¡za«
  []
 
 [4]
-Overfull \hbox (17.00125pt too wide) in paragraph at lines 64--65
-\T1/cmr/m/n/12 Istniej¡ teorie, wedªug których przej±cie obiektu przez horyzont
- zdarze« zwi¡zane
+Overfull \hbox (17.00125pt too wide) in paragraph at lines 69--70
+\T1/cmr/m/n/12 Istniej¡ teorie, wedªug których prze-j±-cie obiektu przez ho-ry-
+zont zdarze« zwi¡zane
  []
 
 
-Overfull \hbox (6.33795pt too wide) in paragraph at lines 66--67
-[]\T1/cmr/m/n/12 Z matematycznego punktu widzenia fakt ten sprowadza si¦ do stw
-ierdzenia,
+Overfull \hbox (6.33795pt too wide) in paragraph at lines 71--72
+[]\T1/cmr/m/n/12 Z matem-aty-cznego punktu widzenia fakt ten sprowadza si¦ do s
+twierdzenia,
  []
 
 
-Overfull \hbox (0.26643pt too wide) in paragraph at lines 70--71
-[]\T1/cmr/m/n/12 Reissnera-Nordströma  ªadunek, masa niezerowa, brak momentu p
-¦du, 
+Overfull \hbox (0.26643pt too wide) in paragraph at lines 75--76
+[]\T1/cmr/m/n/12 Reissnera-Nordströma  ªadunek, masa nieze-rowa, brak mo-mentu
+ p¦du, 
  []
 
-[5] (project.toc)
+[5]
+Package epstopdf Info: Source file: <./images/bh1.eps>
+(epstopdf)                    date: 2019-12-24 10:27:05
+(epstopdf)                    size: 6458923 bytes
+(epstopdf)             Output file: <./images/bh1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-12-24 11:02:25
+(epstopdf)                    size: 241187 bytes
+(epstopdf)             Command: <epstopdf --outfile=./images/bh1-eps-converted-
+to.pdf ./images/bh1.eps>
+(epstopdf)             \includegraphics on input line 107.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./images/bh1-eps-converted-to.pdf): PDF inclusio
+n: found PDF version <1.7>, but at most version <1.5> allowed
+<./images/bh1-eps-converted-to.pdf, id=37, 1027.84pt x 1027.84pt>
+File: ./images/bh1-eps-converted-to.pdf Graphic file (type pdf)
+<use ./images/bh1-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/bh1-eps-converted-to.pdf  used on input line 
+107.
+(pdftex.def)             Requested size: 308.35437pt x 308.35437pt.
+[6 <./images/bh1-eps-converted-to.pdf>] (project.toc)
 \tf@toc=\write3
 \openout3 = `project.toc'.
 
@@ -249,36 +314,43 @@ Overfull \hbox (0.26643pt too wide) in paragraph at lines 70--71
 \tf@lot=\write4
 \openout4 = `project.lot'.
 
- (project.lof)
+
+(project.lof)
 \tf@lof=\write5
 \openout5 = `project.lof'.
 
- [6] (project.aux) ) 
+ [7] (project.bbl) [8] (project.aux) ) 
 Here is how much of TeX's memory you used:
- 1986 strings out of 494411
- 22214 string characters out of 3174489
- 76906 words of memory out of 3000000
- 6089 multiletter control sequences out of 15000+200000
- 16284 words of font info for 50 fonts, out of 3000000 for 9000
- 0 hyphenation exceptions out of 8191
- 30i,9n,31p,1083b,307s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/
-ec/dpi600/ecbx1440.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jknappe
-n/ec/dpi600/ecrm1200.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jknap
-pen/ec/dpi600/ecbx1200.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/jkn
-appen/ec/dpi600/ecbx1728.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour/j
-knappen/ec/dpi600/ecrm1440.pk> </home/piotr/.miktex/texmfs/data/fonts/pk/ljfour
-/jknappen/ec/dpi600/ecrm2074.pk></home/piotr/.miktex/texmfs/install/fonts/type1
-/public/amsfonts/cm/cmex10.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/
-public/amsfonts/cm/cmmi12.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/p
-ublic/amsfonts/cm/cmmi8.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/pub
-lic/amsfonts/cm/cmr12.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/publi
-c/amsfonts/cm/cmr8.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb></home/piotr/.miktex/texmfs/install/fonts/type1/public/am
-sfonts/cm/cmsy8.pfb>
-Output written on project.pdf (6 pages, 156336 bytes).
+ 2918 strings out of 492484
+ 37849 string characters out of 3121600
+ 98874 words of memory out of 3000000
+ 7206 multiletter control sequences out of 15000+200000
+ 19908 words of font info for 57 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,9n,32p,1321b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\jadcz\AppData\Local\MiKTeX\2.9
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\jadcz\AppData\Local\
+MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\jadcz\AppD
+ata\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\
+jadcz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> 
+<C:\Users\jadcz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecr
+m0800.pk> <C:\Users\jadcz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecbx1200.pk> <C:\Users\jadcz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecbx1728.pk> <C:\Users\jadcz\AppData\Local\MiKTeX\2.9\fonts/pk
+/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\jadcz\AppData\Local\MiKTeX\2.
+9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\jadcz\AppData\Local
+\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/jadcz/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Use
+rs/jadcz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
+2.pfb><C:/Users/jadcz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi8.pfb><C:/Users/jadcz/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Users/jadcz/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/jadcz/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jadcz/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on project.pdf (8 pages, 1393106 bytes).
 PDF statistics:
- 293 PDF objects out of 1000 (max. 8388607)
+ 414 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
